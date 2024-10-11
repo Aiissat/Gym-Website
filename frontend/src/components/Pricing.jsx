@@ -5,21 +5,21 @@ import { Link } from "react-router-dom";
 const Pricing = () => {
   const pricing = [
     {
-      imgUrl: "/pricing.jpeg",
+      imgUrl: "/img5.jpeg",
       title: "QUARTERLY",
-      price: 18000,
+      price: 19000,
       length: 3,
     },
     {
-      imgUrl: "/pricing.jpeg",
+      imgUrl: "/img5.jpeg",
       title: "HEAL_YEARLY",
-      price: 34000,
+      price: 36000,
       length: 6,
     },
     {
-      imgUrl: "/pricing.jpeg",
+      imgUrl: "/img5.jpeg",
       title: "YEARLY",
-      price: 67000,
+      price: 70000,
       length: 12,
     },
   ];
@@ -42,7 +42,7 @@ const Pricing = () => {
                   <Check /> Equipment
                 </p>
                 <p>
-                  <Check /> All Day Fre Training
+                  <Check /> All Day Free Training
                 </p>
                 <p>
                   <Check /> Free Restroom

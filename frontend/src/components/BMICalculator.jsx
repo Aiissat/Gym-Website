@@ -68,8 +68,6 @@ const BMICalculator = () => {
                 value={gender}
                 onChange={(e) => setGender(e.target.value)}
               >
-                <option value="">Select Gender</option>
-                <option value="Male">Male</option>
                 <option value="Female">Female</option>
               </select>
             </div>
@@ -77,7 +75,7 @@ const BMICalculator = () => {
           </form>
         </div>
         <div className="wrapper">
-          <img src="/bmi.jpeg" alt="bmiImage" />
+          <img src="/img5.jpeg" alt="bmiImage" />
         </div>
       </div>
     </section>

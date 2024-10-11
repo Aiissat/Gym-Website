@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed By Aïssatou with ❤️
+        Designed And Developed By Aïssat.
     </footer>
   )
 }
